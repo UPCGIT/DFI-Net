@@ -12,7 +12,7 @@ datasets/
     Ori/
       data.mat
       label.mat
-
+Datasets can be downloaded at: https://pan.baidu.com/s/1tJADqb2TjrUurROJutK1WA?pwd=abcd 
 # Acknowledgement
 Some of our codes references to the following projects, and we are thankful for their great work:
 https://github.com/MeiShaohui/Group-Aware-Hierarchical-Transformer
