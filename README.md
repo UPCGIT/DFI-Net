@@ -1,6 +1,6 @@
 # DFI-Net
 # Dual-Branch Feature Interaction Network
-If you use data and code, please cite the paper:
+If you use our data or code, please cite the paper:
 
 M. Xu, M. Liu, Y. Liu, S. Liu and H. Sheng, "Dual-Branch Feature Interaction Network for Coastal Wetland Classification Using Sentinel-1 and 2," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 17, pp. 14368-14379, 2024, doi: 10.1109/JSTARS.2024.3440640. 
 # Requirements
